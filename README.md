@@ -1,3 +1,3 @@
 # git_basics
 
-repo cloned.
+repo cloned, and updated.
